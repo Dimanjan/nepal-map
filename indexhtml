@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Leaflet.js - Nepal&#39;s Map</title>
+  <link rel='stylesheet' href='https://unpkg.com/leaflet@1.6.0/dist/leaflet.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id='map'></div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/nepal-province.js'></script>
+<!-- <script src='https://jenishshrestha.github.io/leaflet-nepal/province1-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province2-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province3-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province4-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province5-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province6-district.js'></script>
+<script src='https://jenishshrestha.github.io/leaflet-nepal/province7-district.js'></script> -->
+<script  src="./script.js"></script>
+
+</body>
+</html>
